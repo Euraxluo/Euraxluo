@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [euraxluo@outlook.com](euraxluo@gmail.com)
 - 💬 Ask me about Python/Compiler/Operational
 
-[![](https://github-readme-stats.vercel.app/api?username=euraxluo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github-readme-stats.vercel.app/api?username=euraxluo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![](https://github-readme-stats.vercel.app/api?username=euraxluo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=1)](https://github-readme-stats.vercel.app/api?username=euraxluo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=1)

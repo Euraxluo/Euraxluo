@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**dongyuanxin/dongyuanxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Euraxluo/Euraxluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working for [TencentCloudBase](https://www.cloudbase.net/)
-- 🌱 I’m currently learning Architecture Design
-- 📫 How to reach me: [@xxoo521.com](https://xxoo521.com/)
-- 💬 Ask me about Serverless/Cloud/Frontend
+- 🔭 I’m currently working for [dml-express](https://www.dml-express.com/)
+- 🌱 I’m currently learning Compiler Design,BigData,ETL
+- 📫 How to reach me: [euraxluo@outlook.com](euraxluo@gmail.com)
+- 💬 Ask me about Python/Compiler/Operational
 
-[![](https://github-readme-stats.vercel.app/api?username=dongyuanxin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github-readme-stats.vercel.app/api?username=dongyuanxin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![](https://github-readme-stats.vercel.app/api?username=euraxluo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github-readme-stats.vercel.app/api?username=euraxluo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)

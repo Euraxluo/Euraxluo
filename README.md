@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - [ ] New features of CPP 14,20,and a simple project
 - [ ] Encoding, decoding and operation of JSON ,project
 - [ ] Regular expression parsing,project
-- [=] Python acceleration，pypy,jython,project and notes
+- [x] Python acceleration，pypy,jython,project and notes
 - [ ] MIT6.824 labs project and notes
 - [ ] spring-* projects,notes,restart study
 - [ ] levelDB(LSM-Tree),and more algorithm ,project and notes

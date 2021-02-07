@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python/Compiler/Operational
 
 **2021 TODO list**
-- [ ] Blogs
+- [x] Blogs
 - [ ] simpy pyvm
 - [ ] simpy jvm
 - [ ] simple docker by go

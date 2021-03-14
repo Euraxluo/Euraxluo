@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 **2021 TODO list**
 - [x] Blogs
 - [x] simpy pyvm
-- [ ] ~~simpy jvm
+- [ ] ~~simpy jvm~~
 - [ ] simple docker by go
 - [ ] New features of CPP 14,20,and a simple project
-- [ ] ~~Encoding, decoding and operation of JSON ,project
-- [ ] ~~Regular expression parsing,project
+- [ ] ~~Encoding, decoding and operation of JSON ,project~~
+- [ ] ~~Regular expression parsing,project~~
 - [x] Python acceleration，pypy,jython,project and notes
 - [ ] MIT6.824 labs project and notes
 - [ ] spring-* projects,notes,restart study

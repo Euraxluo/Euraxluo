@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working for [dml-express](https://www.dml-express.com/)
-- 🌱 I’m currently learning Compiler Design,BigData,ETL
+- 🌱 I’m currently learning Compiler Design,Distributed Systems,Architecture Design
 - 📫 How to reach me: [euraxluo@outlook.com](euraxluo@gmail.com)
-- 💬 Ask me about Python/Compiler/Operational
+- 💬 Ask me about Python/Compiler/Operational,Constraint Programming
 
 **2021 TODO list**
 - [x] Blogs

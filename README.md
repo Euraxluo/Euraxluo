@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working for [zto-express](http://zto-express.com//)
+- 🔭 I’m currently working for [zto.com](http://zto.com//)
 - 🌱 I’m currently learning Compiler Design,Distributed Systems,Architecture Design
-- 📫 How to reach me: [euraxluo@outlook.com](euraxluo@gmail.com)
+- 📫 How to reach me: [euraxluo@outlook.com](euraxluo@outlook.com)
 - 💬 Ask me about Python/Compiler/Operational,Constraint Programming
 
 **2022 TODO list**
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - [ ] ~~New features of JDK17,and a simple project~~
 - [ ] simple sqliteDB
 - [x] simple derivation Library
-- [x] gitflow cicdflow  workflow scrimWorkflow
+- [x] gitflow cicdflow  workflow scrumWorkflow
 
 
 [![](https://github-readme-stats.vercel.app/api?username=euraxluo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=1)](https://github-readme-stats.vercel.app/api?username=euraxluo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=1)

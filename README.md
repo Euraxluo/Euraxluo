@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 - [ ] MIT6.824 labs project and notes
 - [ ] ~~spring-* projects,notes,restart study~~
 - [ ] levelDB(LSM-Tree),and more algorithm ,project and notes
+- [x] bitcask
 - [ ] Search Engine project
-- [ ] Distributed task scheduling framework use ~~react,vert.x~~ go
+- [x] Distributed task scheduling framework use ~~react,vert.x~~ go
 - [ ] ~~Multi language combination project on GraalVM~~
 - [ ] ~~New features of JDK17,and a simple project~~
 - [ ] simple sqliteDB

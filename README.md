@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 - [ ] ~~New features of JDK17,and a simple project~~
 - [ ] simple sqliteDB
 - [x] simple derivation Library
+- [x] gitflow cicdflow  workflow scrimWorkflow
 
 
 [![](https://github-readme-stats.vercel.app/api?username=euraxluo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=1)](https://github-readme-stats.vercel.app/api?username=euraxluo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=1)

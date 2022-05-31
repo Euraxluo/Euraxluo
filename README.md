@@ -4,9 +4,8 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working for [zto.com](http://zto.com)
-- 🌱 I’m currently learning Compiler Design,Distributed Systems,Architecture Design
+- 🌱 I’m currently learning Distributed Systems
 - 📫 How to reach me: [euraxluo@outlook.com](euraxluo@outlook.com)
-- 💬 Ask me about Python/Compiler/Operational,Constraint Programming
 
 **2022 TODO list**
 - [ ] write a lang to study rust

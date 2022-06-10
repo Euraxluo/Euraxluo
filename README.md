@@ -9,8 +9,8 @@
 
 **2022 TODO list**
 - [ ] dragonfly
-- [ ] ~~write a lang to study rust
-- [ ] ~~bitcask
+- [ ] ~~write a lang to study rust~~
+- [ ] ~~bitcask~~
 - [ ] levelDB(LSM-Tree),and more algorithm ,project and notes
 - [ ] MIT6.824 labs project and notes
 - [ ] simple docker by go

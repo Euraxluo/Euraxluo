@@ -13,7 +13,7 @@
 - [ ] levelDB(LSM-Tree),and more algorithm ,project and notes
 - [ ] MIT6.824 labs project and notes
 - [ ] simple docker by go
-- [ ] New features of CPP 14,20,and a simple project
+- [-] New features of CPP 14,20,and a simple project
 - [ ] Search Engine project
 - [ ] simple sqliteDB
 

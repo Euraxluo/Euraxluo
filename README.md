@@ -8,8 +8,6 @@
 - 📫 How to reach me: [euraxluo@outlook.com](euraxluo@outlook.com)
 
 **2023 TODO list**
-- [ ] bitcask
-- [ ] levelDB(LSM-Tree),and more algorithm ,project and notes
 - [ ] MIT6.824 labs project and notes
 - [ ] simple sqliteDB
 - [ ] Write a layer1/layer2 chain

@@ -7,14 +7,11 @@
 - 🌱 I’m currently learning Distributed Systems
 - 📫 How to reach me: [euraxluo@outlook.com](euraxluo@outlook.com)
 
-**2022 TODO list**
-- [ ] write a lang to study rust
+**2023 TODO list**
 - [ ] bitcask
 - [ ] levelDB(LSM-Tree),and more algorithm ,project and notes
 - [ ] MIT6.824 labs project and notes
-- [ ] simple docker by go
-- [x] New features of CPP 14,20,and a simple project
-- [ ] Search Engine project
 - [ ] simple sqliteDB
+- [ ] Write a layer1/layer2 chain
 
 

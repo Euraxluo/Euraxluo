@@ -8,7 +8,6 @@
 - 📫 How to reach me: [euraxluo@outlook.com](euraxluo@outlook.com)
 
 **2023 TODO list**
-- [ ] MIT6.824 labs project and notes
 - [ ] simple sqliteDB
 - [ ] Write a layer1/layer2 chain
 

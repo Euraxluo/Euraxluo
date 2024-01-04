@@ -5,6 +5,6 @@
 
 ### Hi there 👋
 - 🔭 I’m currently learning Multi Agent Planning And Scheduling，you can focus on https://github.com/multi-agent-schedule
-- 🌱 I’m currently learning Distributed Systems
+- 🌱 I’m currently learning Distributed Systems And Web3
 - 📫 How to reach me: [euraxluo@outlook.com](euraxluo@outlook.com)
 
